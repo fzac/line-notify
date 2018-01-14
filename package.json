@@ -1,0 +1,22 @@
+{
+  "name": "line-notify",
+  "version": "1.0.0",
+  "description": "line-notify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fzac/line-notify.git"
+  },
+  "author": "fzac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fzac/line-notify/issues"
+  },
+  "homepage": "https://github.com/fzac/line-notify#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
